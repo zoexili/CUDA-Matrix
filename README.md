@@ -18,7 +18,7 @@ run:
 ./cmat
 ```
 
-## gpu
+## GPU
 compile:
 ```
 nvcc -arch=sm_86 matrix_multiply.cu -o gmat
